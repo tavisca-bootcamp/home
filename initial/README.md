@@ -4,5 +4,5 @@ The topics listed below are required for trainees to effectively complete this c
 
 1. Pluralsight account setup
 2. Microsoft teams setup
-3. Git training
+3. [Git training](https://github.com/tavisca-bootcamp/home/blob/master/initial/learning-git.md)
 4. How to submit assignments
