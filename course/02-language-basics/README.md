@@ -1,7 +1,7 @@
 # 1. Basic C# Language training content
 
 ## References
-Reference content for the C# basic language training module can be found [here](https://github.com/tavisca-bootcamp/home/blob/master/problems/01-language-basics/references.md)
+Reference content for the C# basic language training module can be found [here](https://github.com/tavisca-bootcamp/home/blob/master/problems/01-language-basics/reference.md)
 
 ## Concepts to be covered in this module
 1. Framework, IDE and Tools.
