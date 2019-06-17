@@ -1,4 +1,4 @@
-<img src="assets/csharp-logo.png" alt="class logo" class="logo"/> Tavisca C# Bootcamp
+<img src="assets/csharp-logo.png" alt="class logo" class="logo"/> 
 
 * **Course:** C# training bootcamp.
 
