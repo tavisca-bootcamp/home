@@ -12,11 +12,12 @@
 ### C# language training
 1. C# fundamentals training - [https://app.pluralsight.com/library/courses/csharp-fundamentals-dev/table-of-contents](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev/table-of-contents)
 2. Null handling - [https://app.pluralsight.com/library/courses/csharp-nulls-working/table-of-contents](https://app.pluralsight.com/library/courses/csharp-nulls-working/table-of-contents)
-3. Events, delegates and lambda - [https://app.pluralsight.com/library/courses/csharp-events-delegates/table-of-contents](https://app.pluralsight.com/library/courses/csharp-events-delegates/table-of-contents)
-4. C# collections - [https://app.pluralsight.com/library/courses/csharp-collections-beginning/table-of-contents](https://app.pluralsight.com/library/courses/csharp-collections-beginning/table-of-contents)
-5. Extension methods - [https://app.pluralsight.com/library/courses/csharp-extension-methods/table-of-contents](https://app.pluralsight.com/library/courses/csharp-extension-methods/table-of-contents)
-6. Files and streams - [https://app.pluralsight.com/library/courses/csharp-working-files-streams/table-of-contents](https://app.pluralsight.com/library/courses/csharp-working-files-streams/table-of-contents)
-7. LINQ - [https://app.pluralsight.com/library/courses/linq-fundamentals-csharp-6/table-of-contents](https://app.pluralsight.com/library/courses/linq-fundamentals-csharp-6/table-of-contents)
+3. Exception handling in C# - [https://app.pluralsight.com/library/courses/c-sharp-error-handling-exceptions/table-of-contents](https://app.pluralsight.com/library/courses/c-sharp-error-handling-exceptions/table-of-contents)
+4. Events, delegates and lambda - [https://app.pluralsight.com/library/courses/csharp-events-delegates/table-of-contents](https://app.pluralsight.com/library/courses/csharp-events-delegates/table-of-contents)
+5. C# collections - [https://app.pluralsight.com/library/courses/csharp-collections-beginning/table-of-contents](https://app.pluralsight.com/library/courses/csharp-collections-beginning/table-of-contents)
+6. Extension methods - [https://app.pluralsight.com/library/courses/csharp-extension-methods/table-of-contents](https://app.pluralsight.com/library/courses/csharp-extension-methods/table-of-contents)
+7. Files and streams - [https://app.pluralsight.com/library/courses/csharp-working-files-streams/table-of-contents](https://app.pluralsight.com/library/courses/csharp-working-files-streams/table-of-contents)
+8. LINQ - [https://app.pluralsight.com/library/courses/linq-fundamentals-csharp-6/table-of-contents](https://app.pluralsight.com/library/courses/linq-fundamentals-csharp-6/table-of-contents)
 
 ### Design and modelling in C#
 1. Object oriented programming - [https://app.pluralsight.com/library/courses/object-oriented-programming-fundamentals-csharp/table-of-contents](https://app.pluralsight.com/library/courses/object-oriented-programming-fundamentals-csharp/table-of-contents)
