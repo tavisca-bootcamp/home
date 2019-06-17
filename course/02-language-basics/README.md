@@ -1,6 +1,6 @@
 # 1. Basic C# Language training content
 
-## references
+## References
 Reference content for the C# basic language training module can be found [here](https://github.com/tavisca-bootcamp/home/blob/master/problems/01-language-basics/references.md)
 
 ## Concepts to be covered in this module
@@ -10,4 +10,6 @@ Reference content for the C# basic language training module can be found [here](
 4. Events and delegates
 5. File handling
 
-## Problems
+## Assignments
+
+To be added later.

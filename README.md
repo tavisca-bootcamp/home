@@ -1,4 +1,4 @@
-<img src="assets/csharp-logo.png" alt="class logo" class="logo"/> 
+<img src="assets/csharp-logo.png" alt="class logo" class="logo"/>
 
 * **Course:** C# training bootcamp.
 
@@ -51,15 +51,8 @@ Each trainee should follow the steps below for each assignment -
 Please feel free to reach out to your mentors incase you are blocked on anything or have any questions.
 
 ## Course Outline
-
-### 1. Language Basics
-<To be added>
-
-### 2. Unit testing and continous integration
-<To be added>
-
-### 3. Object oriented modeling and design
-<To be added>
-
-### 4. Final application development assignment
-<To be added>
+1. [Git Basics](course/01-git-basics/README.md)
+2. [Language Basics](course/02-language-basics/README.md) 
+3. Unit testing and continous integration
+4. Object oriented modeling and design
+5. Final application development assignment

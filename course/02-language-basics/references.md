@@ -21,7 +21,7 @@
 
 ### Design and modelling in C#
 1. Object oriented programming - [https://app.pluralsight.com/library/courses/object-oriented-programming-fundamentals-csharp/table-of-contents](https://app.pluralsight.com/library/courses/object-oriented-programming-fundamentals-csharp/table-of-contents)
-2. Using interfaces in C# - [https://app.pluralsight.com/library/courses/clr-fundamentals/table-of-contents](https://app.pluralsight.com/library/courses/clr-fundamentals/table-of-contents)
+2. Using interfaces in C# - [https://app.pluralsight.com/library/courses/using-csharp-interfaces/table-of-contents](https://app.pluralsight.com/library/courses/using-csharp-interfaces/table-of-contents)
 
 
 ### Concurrency
