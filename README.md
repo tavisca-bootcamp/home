@@ -3,8 +3,7 @@
 * **Course:** C# training bootcamp.
 
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-        * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
+    * Reach out to us on Microsoft Teams.
     * Look through and create [issues](https://github.com/tavisca-bootcamp/home/issues)
     * Office Hours schedule (see [schedule](<link>)) (to be published)
     * [Email](mailto:fockers@tavisca.com) for 1-on-1 help, or to set up a time to meet
