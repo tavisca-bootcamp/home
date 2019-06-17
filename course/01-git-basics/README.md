@@ -11,7 +11,7 @@ Create a new github account for use in Tavisca. We will be using this account fo
 Follow the instructions given below to complete the git immersion assignments.
 * Visit [http://gitimmersion.com/](http://gitimmersion.com/) and complete the training as instructed till lab # 53.
 * Upload the repository generated to your github account and share details with your mentor.
-* This assignment is to be submitted latest by end of day `19th June 2019`. 
+* This assignment is to be submitted latest by end of day `19th June 2019`.
 
 ### References:
-Additional references for git and related training for this assignment can be found [here](references.md).
+Additional references for git and related training for this assignment can be found [here](reference.md).
