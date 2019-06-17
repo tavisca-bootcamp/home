@@ -1,14 +1,13 @@
-# <img src="assets/csharp-logo.png" alt="class logo" class="logo"/> Tavisca C# Bootcamp
-
+<img src="assets/csharp-logo.png" alt="class logo" class="logo"/> Tavisca C# Bootcamp
 
 * **Course:** C# training bootcamp.
 
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
-    * Look through and create [issues](<link>)
-    * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [schedule](<link>))
-   * [Email](mailto:<link>) for 1-on-1 help, or to set up a time to meet
+    * Look through and create [issues](https://github.com/tavisca-bootcamp/home/issues)
+    * Office Hours schedule (see [schedule](<link>)) (to be published)
+    * [Email](mailto:fockers@tavisca.com) for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
 
