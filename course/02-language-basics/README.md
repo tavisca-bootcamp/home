@@ -1,4 +1,4 @@
-# 1. Basic C# Language training content
+# Basic C# Language training content
 
 ## Concepts to be covered in this module
 1. Framework, IDE and Tools.
