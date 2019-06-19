@@ -17,4 +17,4 @@
 
  ## NOTE
  * Reference content for the C# basic language training module can be found [here](references.md).
- * Please reference instructions on how to submit the assignment [here](link)
+ * Please reference instructions on how to submit the assignment [here](/initial/assignment-submission.md)
