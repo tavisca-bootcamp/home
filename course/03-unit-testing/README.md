@@ -16,9 +16,9 @@
 | **Repository** | [tdd-basics](https://github.com/tavisca-bootcamp/tdd-basics) |
 | **Submission Date** | 30 June 2019  |
 
-a. Write the implementation of a bowling ball game as per the instructions mentioned in the problem statement.
-b. Write XUnit unit tests to test the implementation of your implementation across different scenarios.
-c. Integrate with Travis CI to your fork for continuous integration of your implementation.
+* Write the implementation of a bowling ball game as per the instructions mentioned in the problem statement.
+* Write XUnit unit tests to test the implementation of your implementation across different scenarios.
+* Integrate with Travis CI to your fork for continuous integration of your implementation.
 
  ## NOTE
  * Reference content for the unit testing basics training module can be found [here](references.md).
