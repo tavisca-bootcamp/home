@@ -52,7 +52,7 @@ Please feel free to reach out to your mentors incase you are blocked on anything
 
 ## Course Outline
 1. [Git Basics](course/01-git-basics/README.md)
-2. [Language Basics](course/02-language-basics/README.md) 
-3. Unit testing and continous integration
-4. Object oriented modeling and design
+2. [Language Basics](course/02-language-basics/README.md)
+3. [Unit testing and continuous integration](course/03-unit-testing/README.md)
+4. Object oriented modelling and design
 5. Final application development assignment
