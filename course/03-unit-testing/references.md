@@ -19,4 +19,4 @@
 4. .NET core / XUnit sample for Travis CI - [https://medium.com/@pjbgf/configuring-ci-for-net-core-using-travis-ci-and-xunit-cc0f809df4fb](https://medium.com/@pjbgf/configuring-ci-for-net-core-using-travis-ci-and-xunit-cc0f809df4fb)
 
 ## Reading references
-1. C# version history and whats new in the language -  https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
+1. [Test Driven Development by Kent Beck](https://www.amazon.in/Test-Driven-Development-Kent-Beck/dp/8131715957/)
