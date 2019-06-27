@@ -27,7 +27,7 @@
 | **Repository** | [tdd-basics-02](https://github.com/tavisca-bootcamp/tdd-basics-02) |
 | **Submission Date** | 30 June 2019  |
 
-* Write the implementation of a bowling ball game as per the instructions mentioned in the problem statement.
+* Write the implementation of the console calculator as per the instructions mentioned in the problem statement.
 * Write XUnit unit tests to test the implementation of your implementation across different scenarios.
 * Integrate with Travis CI to your fork for continuous integration of your implementation.
 
