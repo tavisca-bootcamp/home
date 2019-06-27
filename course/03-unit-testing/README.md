@@ -11,8 +11,10 @@
 
 ### 1. TDD basics 01
 
-| **Repository**      | [tdd-basics](https://github.com/tavisca-bootcamp/tdd-basics) |
-| **Submission Date** | 30 June 2019                                                 |
+| Title | Details |
+| ----- | ------- |
+| **Repository** | [tdd-basics](https://github.com/tavisca-bootcamp/tdd-basics) |
+| **Submission Date** | 30 June 2019  |
 
 a. Write the implementation of a bowling ball game as per the instructions mentioned in the problem statement.
 b. Write XUnit unit tests to test the implementation of your implementation across different scenarios.
